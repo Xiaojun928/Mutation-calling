@@ -1,0 +1,22 @@
+Species	Mutation rate	Genome size	GC	Ne_median	id
+Agrobacterium_tumefaciens_C58	2.92E-10	5.674	0.568534306	5.96E+07	1
+Bacillus_subtilis_NCIB_3610	3.35E-10	4.3	0.560329027	3.85E+07	2
+Burkhoderia_cenocepacia_HI2424	1.33E-10	7.703	0.604694621	9.07E+07	3
+Caulobacter_crescentus_NA1000	3.46E-10	4.043	0.565481161	1.04E+08	4
+Escherichia_coli_K_12_MG1655	2.00E-10	4.64	0.572637972	6.00E+07	5
+Haloferax_volcanii_DS2	3.15E-10	4.013	0.56652644	8.78E+07	6
+Janthinobacterium_lividum_KBS0711	1.22E-10	4.985	0.562710442	3.40E+07	7
+Lactococcus_lactis_DSMZ20481	1.66E-09	2.731	0.550021274	6.07E+06	8
+Mesoplasma_florum_L1	9.78E-09	0.79	0.573509825	1.30E+06	9
+Mycobacterium_smegmatis_MC2_155	5.27E-10	6.99	0.570288398	3.57E+07	10
+Pseudomonas_aeruginosa_PA14	7.92E-11	6.529	0.575809272	1.62E+08	11
+Rhodobacter_sphaeroides_ATCC17025	1.17E-10	4.557	0.535524723	1.98E+08	12
+Ruegeria_pomeroyi_DSS_3	1.39E-10	4.601	0.540467283	2.10E+08	13
+Salmonella_enterica	7.00E-10	4.862	0.559519441	1.62E+07	14
+Staphylococcus_aureus_ATCC_25923	4.38E-10	4.951	0.567415653	3.94E+07	15
+Staphylococcus_epidermidis_ATCC_12228	7.40E-10	2.565	0.531043536	2.93E+07	16
+Teredinibacter_turnerae	1.14E-09	5.19	0.56039921	1.26E+07	17
+Vibrio_cholerae_2740_80	1.07E-10	4.068	0.563277222	2.28E+08	18
+Vibrio_fischeri_ES114	2.07E-10	4.274	0.524613472	2.82E+08	19
+Vibrio_shilonii_AK1	2.29E-10	5.702	0.56662883	1.09E+08	20
+Thermococcus_eurythermalis_A501	7.16E-09	2.126	0.566807455	5.83E+06	30
