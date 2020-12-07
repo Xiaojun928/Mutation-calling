@@ -12,8 +12,9 @@ ref: [Unexpectedly high mutation rate of a deep-sea hyperthermophilic anaerobic 
 This pipeline was created to calculate the Pies for a prokaryotic species with panmictic population dataset. In total, three (or four) steps were included.
 - step1. Get the public genome afflicated with the same named species from NCBI
   - 1.1 search and downlaod the gbff/gbk files
+- step2. Run the [PopCOGenT](https://github.com/philarevalo/PopCOGenT) to get a panmictic population with as many as possible genomes
+  - 1.1 run the PopCOGenT for all avaliable genomes and choose the main cluster with most genomes. (Ps.Only one strain from each clonal complex would be maintained)
   - 1.2 annotate the genomes (optional)
-- step2. Running the PopCOGenT to get a panmictic population with as many as possible genomes
 - step3. Pies calculation for the panmictic population
   - 3.1 Orthologous gene families identification
   - 3.2 Alignemnt of amino acid sequences and generation of nucleotide alignments
