@@ -9,6 +9,6 @@ Ref: [Eyre-Walker A, Keightley PD. \(2007\). The distribution of fitness effects
 ## Following analyses
 1. After the mutation calling, some genes showing excess base-substitution mutations can be identified using bootstrap_check_mut_hotspots.py, which is contributed by [Liao Tianhua](https://github.com/444thLiao)
 2. *Ne* estimation from the Pies of panmictic population
-3. Linear regression between *Ne* and mutation rate µ, µ and genome size, genome size and *Ne*
+3. Linear regression between *Ne* and mutation rate µ, µ and genome size (GnmSize), genome size and *Ne*
 
 
